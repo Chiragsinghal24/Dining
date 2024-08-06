@@ -1,7 +1,7 @@
 # Dining
 
 Requirements
-Node.js
+Node.js<br>
 PostgreSQL
 
 # initialize nodejs project
